@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:padding="10dp"
+		android:text="Start"
+		android:textSize="25sp"
+		android:textColor="#fff"
+		android:fontFamily="casual"
+		android:textStyle="bold"
+		android:id="@+id/btnStart"
+	/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:padding="10dp"
+		android:text="game mode 1"
+		android:textSize="25sp"
+		android:textColor="#fff"
+		android:fontFamily="casual"
+		android:textStyle="bold"
+		android:id="@+id/btnGm1"
+	/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:padding="10dp"
+		android:text="game mode 2"
+		android:textSize="25sp"
+		android:textColor="#fff"
+		android:fontFamily="casual"
+		android:textStyle="bold"
+		android:id="@+id/btnGm2"
+	/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:padding="10dp"
+		android:text="game mode 3"
+		android:textSize="25sp"
+		android:textColor="#fff"
+		android:fontFamily="casual"
+		android:textStyle="bold"
+		android:id="@+id/btnGm3"
+	/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:padding="10dp"
+		android:text="game mode 4"
+		android:textSize="25sp"
+		android:textColor="#fff"
+		android:fontFamily="casual"
+		android:textStyle="bold"
+		android:id="@+id/btnGm4"
+	/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:padding="10dp"
+		android:text="game mode 5"
+		android:textSize="25sp"
+		android:textColor="#fff"
+		android:fontFamily="casual"
+		android:textStyle="bold"
+		android:id="@+id/btnGm5"
+	/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:padding="10dp"
+		android:text="game mode 6"
+		android:textSize="25sp"
+		android:textColor="#fff"
+		android:fontFamily="casual"
+		android:textStyle="bold"
+		android:id="@+id/btnGm6"
+	/>
+
+	
+
+
+
+
+</LinearLayout>
